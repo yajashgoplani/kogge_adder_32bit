@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../kaggo_stone.srcs/sources_1/new/blackcell.v" \
+"../../../../kaggo_stone.srcs/sources_1/new/buffer.v" \
+"../../../../kaggo_stone.srcs/sources_1/new/greycell.v" \
+"../../../../kaggo_stone.srcs/sources_1/new/kagge.v" \
+"../../../../kaggo_stone.srcs/sources_1/new/sum.v" \
+"../../../../kaggo_stone.srcs/sim_1/new/kaggetest.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

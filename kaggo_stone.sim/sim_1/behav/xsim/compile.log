@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/blackcell.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blackcell
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'P1' is not allowed [D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/blackcell.v:22]
+WARNING: [VRFC 10-2502] extra semicolon in $unit (global) scope [D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/blackcell.v:25]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/buffer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module buffer
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/greycell.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module greycell
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/kagge.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module kagge
+WARNING: [VRFC 10-2292] extra semicolon is not allowed here in this dialect. Use SystemVerilog mode [D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/kagge.v:125]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/sum.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sum
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sim_1/new/kaggetest.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module kaggetest
