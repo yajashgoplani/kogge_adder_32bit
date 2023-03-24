@@ -22,4 +22,4 @@ module blackcell(output P1,G1,input P0,G0,P0_prev,G0_prev);
     wire P1,G1;
     assign P1=P0_prev & P0;
     assign G1=(P0&G0_prev)|G0;
-endmodule;    
+endmodule    

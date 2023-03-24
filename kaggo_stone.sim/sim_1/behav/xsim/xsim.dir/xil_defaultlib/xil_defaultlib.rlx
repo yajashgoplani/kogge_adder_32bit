@@ -3,8 +3,8 @@
 Nov 18 2020
 09:47:47
 D:/RCLabProjects/kaggo_stone/kaggo_stone.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
-D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sim_1/new/kaggetest.v,1679599679,verilog,,,,kaggetest,,,,,,,,
-D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/blackcell.v,1679592232,verilog,,D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/buffer.v,,blackcell,,,,,,,,
+D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sim_1/new/kaggetest.v,1679600185,verilog,,,,kaggetest,,,,,,,,
+D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/blackcell.v,1679652670,verilog,,D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/buffer.v,,blackcell,,,,,,,,
 D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/buffer.v,1679591105,verilog,,D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/greycell.v,,buffer,,,,,,,,
 D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/greycell.v,1679590708,verilog,,D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/kagge.v,,greycell,,,,,,,,
 D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/kagge.v,1679600105,verilog,,D:/RCLabProjects/kaggo_stone/kaggo_stone.srcs/sources_1/new/sum.v,,kagge,,,,,,,,

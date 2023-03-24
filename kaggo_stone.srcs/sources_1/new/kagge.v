@@ -3,16 +3,16 @@ module kagge #(parameter WIDTH=32)
   (
    input  [WIDTH-1:0] A,
    input  [WIDTH-1:0] B,
-   output [WIDTH-1:0] prop0,
-   output [WIDTH-1:0] gen0,
-   output [WIDTH-1:0] prop1,
-   output [WIDTH-1:0] gen1,
-   output [WIDTH-1:0] prop2,
-   output [WIDTH-1:0] gen2,
-   output [WIDTH-1:0] prop3,
-   output [WIDTH-1:0] gen3,
-   output [WIDTH-1:0] prop4,
-   output [WIDTH-1:0] gen4,
+//   output [WIDTH-1:0] prop0,
+//   output [WIDTH-1:0] gen0,
+//   output [WIDTH-1:0] prop1,
+//   output [WIDTH-1:0] gen1,
+//   output [WIDTH-1:0] prop2,
+//   output [WIDTH-1:0] gen2,
+//   output [WIDTH-1:0] prop3,
+//   output [WIDTH-1:0] gen3,
+//   output [WIDTH-1:0] prop4,
+//   output [WIDTH-1:0] gen4,
    output [WIDTH:0] sum
    
    
@@ -135,16 +135,16 @@ module kagge #(parameter WIDTH=32)
 //            assign G[i][0]=G[i-1][0];
 //        end
 //    endgenerate    
-  assign prop0=P0;
-  assign gen0=G0;       
-  assign prop1=P1;
-  assign gen1=G1; 
-  assign prop2=P2;
-  assign gen2=G2; 
-  assign prop3=P3;
-  assign gen3=G3;  
-  assign prop4=P4;
-  assign gen4=G4;      
+//  assign prop0=P0;
+//  assign gen0=G0;       
+//  assign prop1=P1;
+//  assign gen1=G1; 
+//  assign prop2=P2;
+//  assign gen2=G2; 
+//  assign prop3=P3;
+//  assign gen3=G3;  
+//  assign prop4=P4;
+//  assign gen4=G4;      
 endmodule
 
 
